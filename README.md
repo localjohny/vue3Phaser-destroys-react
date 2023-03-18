@@ -1,24 +1,17 @@
-# space-adventure2
+![](https://github.com/localjohny/vue3Phaser-destroys-react/blob/main/example.gif)
 
-## Project setup
-```
+## Build Setup
+
+``` bash
+# install dependencies
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# serve with live reloading at localhost:8080
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+# build for production with transpilation / minification
 npm run build
-```
 
-### Lints and fixes files
+# serve your production build at localhost:5000
+npm start
 ```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
